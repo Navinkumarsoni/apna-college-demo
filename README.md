@@ -1,3 +1,4 @@
 # apna-college-demo
 this is first repository
-Navin kumar Soni
+<br>
+Author -Navin kumar Soni
